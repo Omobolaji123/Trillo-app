@@ -1,6 +1,6 @@
 # The trillo app
 
-- An Hotel site.
+- Your all-in-one booking site.
 - This site is a project in a course I took on udemy, by Jonas Schmedtmann.
 - I built the project myself from scratch, but ofcourse all credit to my tutor (Mr. Jonas) for the design and everthing.
 
